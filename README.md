@@ -1,6 +1,10 @@
 # 🛡️ CyberSentinel AI – Smart Cyber Defense
 ### Protecting India's Digital Future with Artificial Intelligence
 
+[![Deploy CyberSentinel AI](https://github.com/nikhilmanvi360/CyberSentinel-AI/actions/workflows/deploy.yml/badge.svg)](https://github.com/nikhilmanvi360/CyberSentinel-AI/actions/workflows/deploy.yml)
+
+🔗 **Live Demo:** [CyberSentinel AI App](https://cybersentinel-ai.streamlit.app)
+
 An AI-powered cybersecurity system that detects phishing, monitors suspicious logins, logs alerts to a blockchain ledger, and generates instant reports.
 
 ## ⚙️ Features
